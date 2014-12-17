@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Products",
+		"link": "javascript:",
+		"target": "#products"
+	},
+	{
+		"name": "Services",
+		"link": "javascript:",
+		"target": "#service"
+	},
+	{
+		"name": "Training",
+		"link": "javascript:",
+		"target": "#training"
+	},
+	{
+		"name": "Online Services",
+		"link": "javascript:",
+		"target": "#online-services"
+	},
+	{
+		"name": "Masuk/Daftar",
+		"link": "#/login"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
